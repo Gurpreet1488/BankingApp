@@ -1,0 +1,171 @@
+2021-02-04 00:21:18,993 [main] INFO ebanking - UEL is opened
+2021-02-04 00:21:19,280 [main] INFO ebanking - Entered Username
+2021-02-04 00:21:19,401 [main] INFO ebanking - Entered Password
+2021-02-04 00:21:23,803 [main] INFO ebanking - Login test passed
+2021-02-04 00:53:10,698 [main] INFO ebanking - UEL is opened
+2021-02-04 00:53:11,976 [main] INFO ebanking - Entered Username
+2021-02-04 00:53:12,413 [main] INFO ebanking - Entered Password
+2021-02-04 00:53:54,771 [main] INFO ebanking - URL is opened
+2021-02-04 00:53:55,021 [main] INFO ebanking - Entered Username
+2021-02-04 00:53:55,152 [main] INFO ebanking - Entered Password
+2021-02-04 00:55:15,098 [main] INFO ebanking - URL is opened
+2021-02-04 00:55:15,345 [main] INFO ebanking - Entered Username
+2021-02-04 00:55:15,477 [main] INFO ebanking - Entered Password
+2021-02-04 00:56:54,936 [main] INFO ebanking - URL is opened
+2021-02-04 00:56:55,211 [main] INFO ebanking - Entered Username
+2021-02-04 00:56:55,471 [main] INFO ebanking - Entered Password
+2021-02-04 00:57:52,701 [main] INFO ebanking - URL is opened
+2021-02-04 00:57:53,059 [main] INFO ebanking - Entered Username
+2021-02-04 00:57:53,195 [main] INFO ebanking - Entered Password
+2021-02-04 00:58:35,303 [main] INFO ebanking - URL is opened
+2021-02-04 00:58:35,661 [main] INFO ebanking - Entered Username
+2021-02-04 00:58:35,796 [main] INFO ebanking - Entered Password
+2021-02-04 00:58:38,536 [main] INFO ebanking - Login test passed
+2021-02-06 17:11:25,113 [main] INFO ebanking - URL is opened
+2021-02-06 17:11:25,660 [main] INFO ebanking - Entered Username
+2021-02-06 17:11:25,817 [main] INFO ebanking - Entered Password
+2021-02-06 17:11:28,608 [main] INFO ebanking - Login test passed
+2021-02-06 17:30:09,805 [main] INFO ebanking - URL is opened
+2021-02-06 17:30:10,539 [main] INFO ebanking - Entered Username
+2021-02-06 17:30:10,672 [main] INFO ebanking - Entered Password
+2021-02-06 17:30:13,742 [main] INFO ebanking - Login test passed
+2021-02-06 17:42:56,796 [main] INFO ebanking - URL is opened
+2021-02-06 17:42:58,784 [main] INFO ebanking - Entered Username
+2021-02-06 17:42:58,946 [main] INFO ebanking - Entered Password
+2021-02-06 17:43:10,228 [main] INFO ebanking - Login test passed
+2021-02-06 17:43:47,215 [main] INFO ebanking - URL is opened
+2021-02-06 17:43:47,780 [main] INFO ebanking - Entered Username
+2021-02-06 17:43:47,884 [main] INFO ebanking - Entered Password
+2021-02-06 18:35:05,616 [main] INFO ebanking - username provided
+2021-02-06 18:35:05,864 [main] INFO ebanking - password provided
+2021-02-06 18:35:10,257 [main] WARN ebanking - Login passed
+2021-02-06 18:36:40,016 [main] INFO ebanking - username provided
+2021-02-06 18:36:40,107 [main] INFO ebanking - password provided
+2021-02-06 18:36:44,003 [main] WARN ebanking - Login passed
+2021-02-06 18:39:11,495 [main] INFO ebanking - username provided
+2021-02-06 18:39:11,645 [main] INFO ebanking - password provided
+2021-02-06 18:39:18,545 [main] WARN ebanking - Login passed
+2021-02-06 18:43:09,043 [main] INFO ebanking - username provided
+2021-02-06 18:43:09,168 [main] INFO ebanking - password provided
+2021-02-06 18:43:12,315 [main] WARN ebanking - Login passed
+2021-02-06 18:51:26,187 [main] INFO ebanking - username provided
+2021-02-06 18:51:26,349 [main] INFO ebanking - password provided
+2021-02-06 18:51:29,267 [main] WARN ebanking - Login passed
+2021-02-06 19:09:55,958 [main] INFO ebanking - URL is opened
+2021-02-06 19:10:24,593 [main] INFO ebanking - URL is opened
+2021-02-07 00:43:56,559 [main] INFO ebanking - URL is opened
+2021-02-07 00:47:56,190 [main] INFO ebanking - URL is opened
+2021-02-07 00:51:50,033 [main] INFO ebanking - URL is opened
+2021-02-07 00:51:52,390 [main] INFO ebanking - Entered Username
+2021-02-07 00:51:52,552 [main] INFO ebanking - Entered Password
+2021-02-07 00:54:03,177 [main] INFO ebanking - URL is opened
+2021-02-07 00:54:03,800 [main] INFO ebanking - Entered Username
+2021-02-07 00:54:03,948 [main] INFO ebanking - Entered Password
+2021-02-07 00:57:32,509 [main] INFO ebanking - URL is opened
+2021-02-07 00:57:32,798 [main] INFO ebanking - Entered Username
+2021-02-07 00:57:32,944 [main] INFO ebanking - Entered Password
+2021-02-07 00:57:35,582 [main] INFO ebanking - Login test passed
+2021-02-07 02:17:49,072 [main] INFO ebanking - URL is opened
+2021-02-07 02:17:50,068 [main] INFO ebanking - Entered Username
+2021-02-07 02:17:50,392 [main] INFO ebanking - Entered Password
+2021-02-07 02:17:53,272 [main] INFO ebanking - Login test passed
+2021-02-08 22:38:08,585 [main] INFO ebanking - URL is opened
+2021-02-08 22:43:08,276 [main] INFO ebanking - URL is opened
+2021-02-08 22:43:08,802 [main] INFO ebanking - Entered Username
+2021-02-08 22:43:08,938 [main] INFO ebanking - Entered Password
+2021-02-08 22:44:44,194 [main] INFO ebanking - URL is opened
+2021-02-08 22:44:44,467 [main] INFO ebanking - Entered Username
+2021-02-08 22:44:44,595 [main] INFO ebanking - Entered Password
+2021-02-08 22:44:47,921 [main] INFO ebanking - Login test passed
+2021-02-08 23:35:35,045 [main] INFO ebanking - URL is opened
+2021-02-08 23:38:44,484 [main] INFO ebanking - URL is opened
+2021-02-08 23:41:18,469 [main] INFO ebanking - URL is opened
+2021-02-08 23:42:17,093 [main] INFO ebanking - URL is opened
+2021-02-08 23:44:03,768 [main] INFO ebanking - URL is opened
+2021-02-08 23:44:05,202 [main] INFO ebanking - Entered Username
+2021-02-08 23:44:05,323 [main] INFO ebanking - Entered Password
+2021-02-08 23:45:41,991 [main] INFO ebanking - URL is opened
+2021-02-08 23:45:43,618 [main] INFO ebanking - Entered Username
+2021-02-08 23:45:43,769 [main] INFO ebanking - Entered Password
+2021-02-08 23:49:26,276 [main] INFO ebanking - URL is opened
+2021-02-08 23:49:26,319 [main] INFO ebanking - Login Link Clicked
+2021-02-08 23:49:27,789 [main] INFO ebanking - Entered Username
+2021-02-08 23:49:27,919 [main] INFO ebanking - Entered Password
+2021-02-08 23:52:09,709 [main] INFO ebanking - URL is opened
+2021-02-08 23:52:09,749 [main] INFO ebanking - Login Link Clicked
+2021-02-08 23:52:11,170 [main] INFO ebanking - Entered Username
+2021-02-08 23:52:11,298 [main] INFO ebanking - Entered Password
+2021-02-08 23:53:14,626 [main] INFO ebanking - URL is opened
+2021-02-08 23:53:14,671 [main] INFO ebanking - Login Link Clicked
+2021-02-08 23:53:16,180 [main] INFO ebanking - Entered Username
+2021-02-08 23:53:16,303 [main] INFO ebanking - Entered Password
+2021-02-09 00:35:57,735 [main] INFO ebanking - URL is opened
+2021-02-09 00:35:57,946 [main] INFO ebanking - Login Link Clicked
+2021-02-09 00:36:00,181 [main] INFO ebanking - Entered Username
+2021-02-09 00:36:00,363 [main] INFO ebanking - Entered Password
+2021-02-09 00:46:07,446 [main] INFO ebanking - URL is opened
+2021-02-09 00:46:07,497 [main] INFO ebanking - Login Link Clicked
+2021-02-09 00:46:08,884 [main] INFO ebanking - Entered Username
+2021-02-09 00:46:09,013 [main] INFO ebanking - Entered Password
+2021-02-09 00:47:35,486 [main] INFO ebanking - URL is opened
+2021-02-09 00:47:35,527 [main] INFO ebanking - Login Link Clicked
+2021-02-09 00:47:37,069 [main] INFO ebanking - Entered Username
+2021-02-09 00:47:37,196 [main] INFO ebanking - Entered Password
+2021-02-10 16:12:20,078 [main] INFO ebanking - URL is opened
+2021-02-10 16:12:20,565 [main] INFO ebanking - Login Link Clicked
+2021-02-10 16:12:24,470 [main] INFO ebanking - Entered Username
+2021-02-10 16:12:25,017 [main] INFO ebanking - Entered Password
+2021-02-10 16:15:38,093 [main] INFO ebanking - URL is opened
+2021-02-10 16:15:38,252 [main] INFO ebanking - Login Link Clicked
+2021-02-10 16:15:41,186 [main] INFO ebanking - Entered Username
+2021-02-10 16:15:41,533 [main] INFO ebanking - Entered Password
+2021-02-14 14:00:18,672 [main] INFO ebanking - URL is opened
+2021-02-14 14:00:18,984 [main] INFO ebanking - Login Link Clicked
+2021-02-20 18:11:29,418 [main] INFO ebanking - URL is opened
+2021-02-20 18:11:29,620 [main] INFO ebanking - Login Link Clicked
+2021-02-20 18:15:32,372 [main] INFO ebanking - URL is opened
+2021-02-20 18:15:32,441 [main] INFO ebanking - Login Link Clicked
+2021-02-20 18:16:55,190 [main] INFO ebanking - URL is opened
+2021-02-20 18:16:55,300 [main] INFO ebanking - Login Link Clicked
+2021-02-20 19:05:02,910 [main] INFO ebanking - URL is opened
+2021-02-20 19:05:03,495 [main] INFO ebanking - Entered Username
+2021-02-20 19:05:03,903 [main] INFO ebanking - Entered Password
+2021-02-20 19:08:39,444 [main] INFO ebanking - Entered Username
+2021-02-20 19:08:39,584 [main] INFO ebanking - Entered Password
+2021-02-20 19:10:45,001 [main] INFO ebanking - Entered Username
+2021-02-20 19:10:45,251 [main] INFO ebanking - Entered Password
+2021-02-20 19:12:07,490 [main] INFO ebanking - Entered Username
+2021-02-20 19:12:07,635 [main] INFO ebanking - Entered Password
+2021-02-20 19:13:13,032 [main] INFO ebanking - Entered Username
+2021-02-20 19:13:13,182 [main] INFO ebanking - Entered Password
+2021-02-20 19:14:30,037 [main] INFO ebanking - Entered Username
+2021-02-20 19:14:30,152 [main] INFO ebanking - Entered Password
+2021-02-20 19:15:42,137 [main] INFO ebanking - Entered Username
+2021-02-20 19:15:42,299 [main] INFO ebanking - Entered Password
+2021-02-20 19:18:14,080 [main] INFO ebanking - Entered Username
+2021-02-20 19:18:14,275 [main] INFO ebanking - Entered Password
+2021-02-20 19:36:16,464 [main] INFO ebanking - URL is opened
+2021-02-20 19:36:17,645 [main] INFO ebanking - Entered Username
+2021-02-20 19:36:18,902 [main] INFO ebanking - Entered Password
+2021-02-20 19:36:30,565 [main] INFO ebanking - Entered Username
+2021-02-20 19:36:30,684 [main] INFO ebanking - Entered Password
+2021-02-20 19:39:31,875 [main] INFO ebanking - URL is opened
+2021-02-20 19:39:33,037 [main] INFO ebanking - Entered Username
+2021-02-20 19:39:33,152 [main] INFO ebanking - Entered Password
+2021-02-20 19:39:48,385 [main] INFO ebanking - Entered Username
+2021-02-20 19:39:48,554 [main] INFO ebanking - Entered Password
+2021-02-20 19:48:51,198 [main] INFO ebanking - URL is opened
+2021-02-20 19:48:53,296 [main] INFO ebanking - Entered Username
+2021-02-20 19:48:53,404 [main] INFO ebanking - Entered Password
+2021-02-20 19:49:06,076 [main] INFO ebanking - Entered Username
+2021-02-20 19:49:06,372 [main] INFO ebanking - Entered Password
+2021-02-20 20:24:39,502 [main] INFO ebanking - URL is opened
+2021-02-20 20:24:40,074 [main] INFO ebanking - Entered Username
+2021-02-20 20:24:40,675 [main] INFO ebanking - Entered Password
+2021-02-20 20:24:53,550 [main] INFO ebanking - Entered Username
+2021-02-20 20:24:53,704 [main] INFO ebanking - Entered Password
+2021-02-20 22:16:13,718 [main] INFO ebanking - URL is opened
+2021-02-20 22:16:14,963 [main] INFO ebanking - Entered Username
+2021-02-20 22:16:15,134 [main] INFO ebanking - Entered Password
+2021-02-20 22:16:28,010 [main] INFO ebanking - Entered Username
+2021-02-20 22:16:28,363 [main] INFO ebanking - Entered Password
